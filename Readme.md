@@ -1,1 +1,3 @@
-Demonstration Purpose
+Demonstration purpose
+
+Adding branching strategy
